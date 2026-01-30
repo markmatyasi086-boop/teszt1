@@ -1,2 +1,9 @@
 csak a tisza
 matyi
+git pull origin master -allow-unrelated-histories minden leszedés
+
+git clone <GitHub link> le töltjük és össze is köt vele
+
+git push letölt
+git pull feltölt
+git diff mi változott
